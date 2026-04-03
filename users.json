@@ -1577,7 +1577,7 @@
   },
   {
     "name": "Sonal Sarda",
-    "github": "sonalsarda",                 
+    "github": "sonalsarda",
     "certs": [
       "awstronaut"
     ],
@@ -1633,7 +1633,7 @@
     "bio": "DevSecOps & Software Engineer",
     "linkedin": "i-yasir",
     "avatar": "/avatars/yasiryasin.png"
-  }, 
+  },
   {
     "name": "Crhistian Cardona",
     "github": "crhisto",
@@ -1789,5 +1789,17 @@
   "bio": "Sr. DevOps Engineer @ Wipro FullStride Cloud | AWSTRONAUT | Multi-Cloud Architect | AI/ML & Automation Specialist",
   "linkedin": "rishavchakraborty02",
   "avatar": "/avatars/RishavChakraborty.png"
-  }
+  },
+  {
+  "name": "Christina Chen",
+  "github": "cloudchristina",
+  "certs": ["awstronaut"],
+  "city": "Melbourne",
+  "country": "Australia",
+  "date": "2024-07-01",
+  "bio": "Christina Chen is a Senior DevOps Engineer based in Melbourne, specialising in cloud infrastructure, Kubernetes, and AWS. She holds CKA and CKS certifications and is an AWS Golden Jacket and AWS ABW 2025 recipient.",
+  "linkedin": "christina-cloud",
+  "website": "https://ccbuilds.vercel.app/",
+  "avatar": "/avatars/christina_chen.jpeg"
+}
 ]
