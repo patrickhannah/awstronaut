@@ -1779,7 +1779,7 @@
     "linkedin": "gulias",
     "avatar": "/avatars/ricardogulias.jpg"
   },
-  {
+ {
   "name": "Rishav Chakraborty",
   "github": "Rishav1212",
   "certs": ["awstronaut"],
@@ -1800,5 +1800,17 @@
   "linkedin": "christina-cloud",
   "website": "https://ccbuilds.vercel.app/",
   "avatar": "/avatars/christina_chen.jpeg"
+},
+{
+    "name": "Erick Mancz",
+    "github": "erickmancz",
+    "certs": ["awstronaut"],
+    "city": "São Paulo",
+    "country": "Brazil",
+    "date": "2026-02-14",
+    "bio": "AWS Golden Jacket | Author on Medium @erickmancz | Network and Security Specialist | 13x AWS Certified | The one who never gave up",
+    "linkedin": "erick-mancz",
+    "website": "https://medium.com/@erickmancz",
+    "avatar": "/avatars/erickmancz.jpg"
 }
 ]
