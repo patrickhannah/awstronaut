@@ -1812,5 +1812,16 @@
     "linkedin": "erick-mancz",
     "website": "https://medium.com/@erickmancz",
     "avatar": "/avatars/erickmancz.jpg"
+},
+{
+    "name": "Carlos Vieira",
+    "github": "grelac-dev",
+    "certs": ["awstronaut"],
+    "city": "São Paulo",
+    "country": "Brazil",
+    "date": "2025-08-30",
+    "bio": "Solutions Architect | AWS GoldenJacket | 12x AWS Certified",
+    "linkedin": "carlosvieira-ti",
+    "avatar": "/avatars/grelac-dev.jpg"
 }
 ]
