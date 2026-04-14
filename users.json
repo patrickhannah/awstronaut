@@ -1779,29 +1779,29 @@
     "linkedin": "gulias",
     "avatar": "/avatars/ricardogulias.jpg"
   },
- {
-  "name": "Rishav Chakraborty",
-  "github": "Rishav1212",
-  "certs": ["awstronaut"],
-  "city": "Kolkata",
-  "country": "India",
-  "date": "2026-03-22",
-  "bio": "Sr. DevOps Engineer @ Wipro FullStride Cloud | AWSTRONAUT | Multi-Cloud Architect | AI/ML & Automation Specialist",
-  "linkedin": "rishavchakraborty02",
-  "avatar": "/avatars/RishavChakraborty.png"
+  {
+	"name": "Rishav Chakraborty",
+	"github": "Rishav1212",
+	"certs": ["awstronaut"],
+	"city": "Kolkata",
+	"country": "India",
+	"date": "2026-03-22",
+	"bio": "Sr. DevOps Engineer @ Wipro FullStride Cloud | AWSTRONAUT | Multi-Cloud Architect | AI/ML & Automation Specialist",
+	"linkedin": "rishavchakraborty02",
+	"avatar": "/avatars/RishavChakraborty.png"
   },
   {
-  "name": "Christina Chen",
-  "github": "cloudchristina",
-  "certs": ["awstronaut"],
-  "city": "Melbourne",
-  "country": "Australia",
-  "date": "2026-04-03",
-  "linkedin": "christina-cloud",
-  "website": "https://ccbuilds.vercel.app/",
-  "avatar": "/avatars/christina_chen.jpeg"
-},
-{
+    "name": "Christina Chen",
+  	"github": "cloudchristina",
+  	"certs": ["awstronaut"],
+  	"city": "Melbourne",
+ 	"country": "Australia",
+ 	"date": "2026-04-03",
+  	"linkedin": "christina-cloud",
+  	"website": "https://ccbuilds.vercel.app/",
+  	"avatar": "/avatars/christina_chen.jpeg"
+  },
+  {
     "name": "Erick Mancz",
     "github": "erickmancz",
     "certs": ["awstronaut"],
@@ -1812,8 +1812,20 @@
     "linkedin": "erick-mancz",
     "website": "https://medium.com/@erickmancz",
     "avatar": "/avatars/erickmancz.jpg"
-},
-{
+  },
+  {
+    "name": "Ankit Saxena",
+    "github": "ankitdeepsaxena",
+    "certs": ["awstronaut"],
+    "city": "Mexico City",
+    "country": "Mexico",
+    "date": "2025-03-25",
+    "bio": "AWS Golden Jacket | Cloud Architect | Driving outcomes through deep technical expertise, leading teams, and simplifying complex architectures",
+    "linkedin": "ankit-saxena-28557366",
+    "website": "https://medium.com/@ankit-saxena",
+    "avatar": "/avatars/ankitsaxena.jpg"
+  },
+  {
     "name": "Carlos Vieira",
     "github": "grelac-dev",
     "certs": ["awstronaut"],
@@ -1823,5 +1835,5 @@
     "bio": "Solutions Architect | AWS GoldenJacket | 12x AWS Certified",
     "linkedin": "carlosvieira-ti",
     "avatar": "/avatars/grelac-dev.jpg"
-}
+  }
 ]
