@@ -1835,5 +1835,17 @@
     "bio": "Solutions Architect | AWS GoldenJacket | 12x AWS Certified",
     "linkedin": "carlosvieira-ti",
     "avatar": "/avatars/grelac-dev.jpg"
+  },
+  {
+	  "name": "Mohsin Khan",
+	  "github": "mohsin-akhan",
+  	"certs": ["awstronaut"],
+  	"city": "Manchester",
+  	"country": "United Kingdom",
+ 	  "date": "2024-10-07",
+ 	  "bio": "AWS Solutions Architect",
+  	"linkedin": "mohsinkhann",
+  	"website": "https://mohsinkhan.me/",
+	  "avatar": "/avatars/mohsinkhan.png"
   }
 ]
