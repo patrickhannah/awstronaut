@@ -1847,5 +1847,17 @@
   	"linkedin": "mohsinkhann",
   	"website": "https://mohsinkhan.me/",
 	  "avatar": "/avatars/mohsinkhan.png"
+  },
+   {
+    "name": "Mayank Sharma",
+    "github": "mayank0202",
+    "certs": ["awstronaut"],
+    "city": "Delhi",
+    "country": "India",
+    "date": "2026-04-13",
+    "bio": "AWS Golden Jacket | Devops Consultant | Driving outcomes through deep technical expertise, leading teams, and simplifying complex architectures",
+    "linkedin": "mayank-sharma-a1a802171",
+    "website": "https://medium.com/@mayank2299",
+    "avatar": "/avatars/mayank-photo.jpg"
   }
 ]
